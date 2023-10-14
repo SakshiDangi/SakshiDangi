@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sakshi</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Hi 👋, I'm Sakshi</h3>
+<h5 align="center">Full Stack Developer</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshidangi&label=Profile%20views&color=0e75b6&style=flat" alt="sakshidangi" /> </p>
 
