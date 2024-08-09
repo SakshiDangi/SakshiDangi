@@ -1,2 +1,2 @@
 <h5 align="left">Hi 👋, There..</h5>
-<p>I am Sakshi a Full Stack Developer</p>
+<p>Machine Learning| AI| NLP| Deep Learning| MLOps| Software Engineer (MERN Stack, Front - End Developer)</p>
