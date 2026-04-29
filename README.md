@@ -1,5 +1,4 @@
 <h5 align="left">Hi 👋, I am Sakshi</h5>
-# 👋 Hi, I'm [Your Name]
 <p>🛡️ Web3 Security Researcher (In Progress)| Machine Learning| AI| Software Engineer (MERN Stack Developer)</p>
 
 Currently focused on:
